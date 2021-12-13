@@ -12,7 +12,7 @@ namespace ServiceReservasi
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the class name "Service1" in both code and config file together.
     public class Service1 : IService1
     {
-        string constring = "Data Source = LAPTOP-LD2MHLOM; Initial Catalog=WCFTest; Persist Security Info=True; User ID=sa; Password=sa";
+        string constring = "Data Source = MSI; Initial Catalog=WCFTest; Persist Security Info=True; User ID=sa; Password=4dehidayat";
         SqlConnection connection;
         SqlCommand com; //konek visual studio
 
